@@ -1,4 +1,66 @@
 {
+  ,
+  // Start translate LV.
+  "lv": {
+    "A_Z_PAGE": {
+      "HEAD": {
+        "DESCRIPTION": "Index list A-Z",
+        "TITLE": "Vaishnava Songbook"
+      }
+    },
+    "BOOK_LIST_PAGE": {
+      "HEAD": {
+        "DESCRIPTION": "List of available song books",
+        "TITLE": "Vaishnava Songbook"
+      },
+      "SONG_COUNT": "songs"
+    },
+    "FOOTER": {
+      "BOOKS": "Books",
+      "CONTENTS": "Contents",
+      "INDEX": "Index",
+      "SEARCH": "Search"
+    },
+    "CONTENTS_PAGE": {
+      "HEAD": {
+        "DESCRIPTION": "Contents",
+        "TITLE": "Vaishnava Songbook"
+      }
+    },
+    "NOT_FOUND_PAGE": {
+      "HEAD": {
+        "DESCRIPTION": "Page 404",
+        "TITLE": "Vaishnava Songbook"
+      },
+      "TEXT": "This site does not contain the requested page. Try to start navigation selecting songbook from the list below:",
+      "TITLE": "Page not found"
+    },
+    "SEARCH_PAGE": {
+      "HEAD": {
+        "DESCRIPTION": "Search page",
+        "TITLE": "Vaishnava Songbook"
+      },
+      "CLEAR": "Clear",
+      "FIND": "Find",
+      "INPUT_PLACEHOLDER": "Find a song",
+      "LOAD_MORE": "Load more",
+      "NO_RESULTS": "Nothing has been found",
+      "PAGE_LIST": "List of pages"
+    },
+    "SONG_PAGE": {
+      "CLOSE": "Close",
+      "COPY": "Copy",
+      "COPY_LINK": "Copy page link",
+      "NEXT_SONG": "Next song",
+      "OTHER_TRANSLATIONS": "See other translations",
+      "PREVIOUS_SONG": "Previous song",
+      "SHARE": "Share",
+      "SHARE_SONG": "Share song",
+      "SHOW_TRANSLATION": "Show translation",
+      "PAGE": "page"
+    }
+  },
+  // End translate LV.
   "en": {
     "A_Z_PAGE": {
       "HEAD": {
